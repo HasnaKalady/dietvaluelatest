@@ -1,0 +1,73 @@
+{
+    "navbar": {
+      "brandName": {
+        "part1": "Diet",
+        "part2": "value"
+      },
+      "language": {
+        "flag": "language",
+        "code": "ENG"
+      },
+      "buttonText": "DOWNLOAD THE APP"
+    },
+    "heroSection": {
+      "heading": "AFFORDABLE\nMEAL PLAN\nSUBSCRIPTION\nIN KUWAIT!",
+      "price": "69",
+      "period": "Monthly",
+      "currency": "KD",
+      "buttonText": "SUBSCRIBE NOW",
+      "imageAlt": "Meal"
+    },
+    "welcomeSection": {
+      "heading": "Welcome To DietValue",
+      "description": "Looking for healthy meal subscriptions in affordable price? Whether its a weight loss or body building plan, DIET VALUE got you coverd. We belive that healhy eating should be accessible to everyone. That's why we offer the most economical meal plans in Kuwait, ensuring that nutritious, delicious meals are within reach for all.",
+      "buttonText": "DOWNLOAD THE APP",
+      "imageAlt": {
+        "topRight": "Top Right",
+        "meal1": "Meal",
+        "meal2": "Meal"
+      }
+    },
+"pricingSection": {
+  "headingLine1": "Economical meal subscriptions",
+  "headingLine2": "for all budgets.",
+  "subheading": "The weight loss diet plan is designed for fat burning whereas the bodybuilding plan is designed to fuel your muscle growth.",
+  "mealBreakdown": "(breakfast, lunch, dinner)",
+  "planmeals" : " 3 Meals" ,
+  "plansnacks" : " 1 Snack" ,
+  "plansalads" : " 1 Salad" ,
+  "buttonText": "SUBSCRIBE NOW",
+  "mostPopular": "Most Popular",
+
+  "plans": [
+    {
+      "title": "Diet Plan 20 days",
+      "duration": "One month with\nweekend OFF"
+    },
+    {
+      "title": "Diet Plan 26 days", 
+      "duration": "One month with\nweekend OFF"
+    }
+  ]
+},
+    "appDownload": {
+      "headingLine1": "Download The",
+    "headingLine2": "DIET VALUE APP!",
+      "description": "Browse our variety of bodybuilding, weight loss, and balanced meal options and enjoy special promotions available only on our app.",
+      "buttonText": "DOWNLOAD THE APP",
+      "imageAlt": "App Screenshot"
+    },
+    "footer": {
+      "brandName": {
+        "part1": "Diet",
+        "part2": "value"
+      },
+      "followUs": "Follow us:",
+      "socialLinks": {
+        "instagram": "Instagram",
+        "whatsapp": "WhatsApp",
+        "facebook": "Facebook"
+      },
+      "copyright": "2025 l ABOUT l CONTACT US: 22090963"
+    }
+  }
